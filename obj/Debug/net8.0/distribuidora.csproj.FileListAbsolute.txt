@@ -1,0 +1,14 @@
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/bin/Debug/net8.0/distribuidora
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/bin/Debug/net8.0/distribuidora.deps.json
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/bin/Debug/net8.0/distribuidora.runtimeconfig.json
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/bin/Debug/net8.0/distribuidora.dll
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/bin/Debug/net8.0/distribuidora.pdb
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.AssemblyInfoInputs.cache
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.AssemblyInfo.cs
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.csproj.CoreCompileInputs.cache
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.dll
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/refint/distribuidora.dll
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.pdb
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/distribuidora.genruntimeconfig.cache
+/home/jaeder/Documentos/csharp/fundamentos/distribuidora/obj/Debug/net8.0/ref/distribuidora.dll
